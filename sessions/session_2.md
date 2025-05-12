@@ -1,3 +1,5 @@
+# Session 2
+
 CRUD Operations: a way to interact with records in a table
 
 CRUD: 
